@@ -5,9 +5,11 @@ A demonstration of association rule learning with Twitter data and Python's apyo
 # IT_631_Machine Learning_Final project_Fall2020-(README)
 
 [1] Title:
+
 	- A Framework for Association Rule Learning with Social Media Networks.
 
 [2] Team:
+
 	- Ryan Kruse and Tharindu Lokukatagoda,
 	- Done under the guidance of Dr.Suboh Alkhushayni.
 
