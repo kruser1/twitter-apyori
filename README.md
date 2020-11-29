@@ -5,11 +5,11 @@ A demonstration of association rule learning with Twitter data and Python's apyo
 # IT_631_Machine Learning_Final project_Fall2020-(README)
 
 [1] Title:
-	-A Framework for Association Rule Learning with Social Media Networks.
+	- A Framework for Association Rule Learning with Social Media Networks.
 
 [2] Team:
-	-Ryan Kruse and Tharindu Lokukatagoda,
-	-Done under the guidance of Dr.Suboh Alkhushayni.
+	- Ryan Kruse and Tharindu Lokukatagoda,
+	- Done under the guidance of Dr.Suboh Alkhushayni.
 
 [3] Description:
 	Association rule learning might be used to identify which items are most and least likely to be bought with bread at Walmart. One might discover that when peanut butter is bought, bread is also frequently bought, but when bread is bought, peanut butter might not be as frequently bought (people who buy peanut butter usually buy bread but people who buy bread don’t necessarily want peanut butter with it). In our context, we can think of “following Donald Trump on Twitter” as “buying bread at Walmart,” “following Andrew Yang on Twitter” as “buying peanut butter at Walmart,” and “following Elon Musk on Twitter” as “buying jelly at Walmart.” A “transaction” is a Twitter account’s following list. Just like in market basket analysis when we want to analyze all transactions where bread is purchased, we can analyze all Twitter accounts that follow Donald Trump. Then, asking “What is the relationship between Andrew Yang and Elon Musk on Twitter among Trump’s Twitter followers” is like asking “When bread is purchased, what is the relationship between peanut butter and jelly?” In this study we are trying to apply the relationship between Twitter followers among market basket analysis and analyze user behavior data.
