@@ -32,8 +32,8 @@ Set up Twitter authorization and check that it works.
 import tweepy
 
 #setting up twitter credentials and accessing API
-auth = tweepy.OAuthHandler('hIWpwsTKwqYsEJ5A3wyEBNd8L','k6o0MQHjJYDRefQf5wDSZWR6liEDlQeus8TMX7e2iTgXTuV5jG')
-auth.set_access_token('1086315154235711490-u4YED2w5Bf8nDgujbt8CGQrau86xAk','pcKBkCllyXy3lRk702DsjKMqdiACgmZqvt1y1mTqd5y2n')
+auth = tweepy.OAuthHandler('***************','*****************')
+auth.set_access_token('***********************','*******************')
 api = tweepy.API(auth)
 
 #get twitter followers count of the current handle 
